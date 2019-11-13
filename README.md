@@ -1,5 +1,5 @@
 # Fantasy-premier-league-helper
-Tool to help calculate best value for points team. Moneyball-esque
+Fantasy Premier League Script to help calculate best value for points team. Moneyball-esque
 
 #Create-files.py
 Create-files.py file first to create files to work on, will need to re-run every time you need new data. If added to a server run a cron job once every day.
